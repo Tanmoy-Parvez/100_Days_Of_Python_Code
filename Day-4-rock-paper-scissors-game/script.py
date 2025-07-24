@@ -1,4 +1,4 @@
-import  random
+import random
 rock = '''
     _______
 ---'   ____)
