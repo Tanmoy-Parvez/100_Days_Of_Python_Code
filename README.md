@@ -34,7 +34,8 @@ The challenge is simple: **Code every day for 100 days**, building projects and 
 | 07  | Beginner – Hangman Game                                                      | ✅ Completed |
 | 08  | Beginner – Function Parameters and Caesar Cipher                             | ✅ Completed |
 | 09  | Beginner – Dictionaries, Nesting, and the Secret Auction Program             | ✅ Completed |
-| 10  | ...                                                                          | ⏳ Next      |
+| 10  | Beginner – Functions and Outputs                                             | ✅ Completed |
+| 11  | ...                                                                          | ⏳ Next      |
 
 ---
 
