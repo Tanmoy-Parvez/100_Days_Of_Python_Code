@@ -36,7 +36,8 @@ The challenge is simple: **Code every day for 100 days**, building projects and 
 | 09  | Beginner – Dictionaries, Nesting, and the Secret Auction Program             | ✅ Completed |
 | 10  | Beginner – Functions and Outputs                                             | ✅ Completed |
 | 11  | Beginner – The Blackjack Capstone Project                                    | ✅ Completed |
-| 12  | ...                                                                          | ⏳ Next      |
+| 12  | Beginner – Scope & Number Guessing Game                                      | ✅ Completed |
+| 13  | ...                                                                          | ⏳ Next      |
 
 ---
 
