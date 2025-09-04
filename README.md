@@ -37,7 +37,9 @@ The challenge is simple: **Code every day for 100 days**, building projects and 
 | 10  | Beginner – Functions and Outputs                                             | ✅ Completed |
 | 11  | Beginner – The Blackjack Capstone Project                                    | ✅ Completed |
 | 12  | Beginner – Scope & Number Guessing Game                                      | ✅ Completed |
-| 13  | ...                                                                          | ⏳ Next      |
+| 13  | Beginner – Debugging: How to Find and Fix Errors                             | ✅ Completed |
+| 14  | Beginner – Higher Lower Game Project                                         | ✅ Completed |
+| 15  | ....                                                                         | ⏳ Next      |
 
 ---
 
