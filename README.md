@@ -39,7 +39,8 @@ The challenge is simple: **Code every day for 100 days**, building projects and 
 | 12  | Beginner – Scope & Number Guessing Game                                      | ✅ Completed |
 | 13  | Beginner – Debugging: How to Find and Fix Errors                             | ✅ Completed |
 | 14  | Beginner – Higher Lower Game Project                                         | ✅ Completed |
-| 15  | ....                                                                         | ⏳ Next      |
+| 15  | Intermediate – The Coffee Machine Project                                    | ✅ Completed |
+| 16  | ....                                                                         | ⏳ Next      |
 
 ---
 
